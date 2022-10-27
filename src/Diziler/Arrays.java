@@ -11,8 +11,5 @@ public class Arrays {
 		for (int counter=0;counter < 10;counter++) {
 			System.out.printf("%5d%8d%n", counter,array[counter]);
 		}
-		
-
 	}
-
 }
